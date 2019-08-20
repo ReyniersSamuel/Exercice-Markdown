@@ -1,8 +1,5 @@
 # Exercice-Markdown
-<span style=“color:#ee82ee>
-
-Markdowns
-
+# Différente police d'écriture.
 # Italic
   * \*\*...\*\*
   * \_\_...\_\_
@@ -10,28 +7,29 @@ Markdowns
 ## Bold
   * \*...\*
   * \_...\_
-
+# Les titres et leurs priorités
 # H1....
   H1 est le titre avec la plus grande priorité qui sera repris dans la barre de descriptife de la page en html.  
   Les différent titre de priorité des titres en Markdown s'écrit suivant le nombre de "#" qu il y a devant code du tire. 
+  
 #### Liste désordonné
-  * Item 1
-  * Item 2
-    * Item 2a
-    * Item 2b
+  * Objet 1
+  * Objet 2
+    * Objet 2a
+    * Objet 2b
 
 ##### Liste Ordonné 
-  1. Item 1
-  1. Item 2
-  1. Item 3  
-    1.Item 3a  
-    1. Item 3b
+  1. Objet 1
+  1. Objet 2
+  1. Objet 3  
+    1.Objet 3a  
+    1. Objet 3b
 
 ###### Images
-* \!\[GitHub Logo\] \(/Pictures/matrixstatic\.jpeg\)
+* \!\[GitHub Logo\] \(home/reyniers/Pictures/matrixstatic/.jpeg) 
   Format: \!\[Alt Text\]\(URL\)
 
-###### Links
+###### Liens 
 * http://gitHub.com \= automatic
 * \[GitHub\]\(http://gitHub.com\)
 
@@ -44,14 +42,10 @@ Comme dirais Benjamin Franklin:
 
 Pour passer à la ligne , il faut crée deux espaces après la fin de phrase  
 
-###### Inline code
-* I Think you schould use an  
-\'\<addr\>\' element here instead.  
+###### liens vers la page suivante
 
-
-to split text into two lines just hit at the end of the line  two times space and then enter to continue. Also working on lists and texts.  
+*(https://github.com/ReyniersSamuel/Exercice-Markdown.git)
 
 ![examples]()  
 
-</span>
 
